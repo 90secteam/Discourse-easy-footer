@@ -1,10 +1,10 @@
 Heading:
-  default: "This is a header"
+  default: "90Sec Team"
   max: 25
   description:
     en: "Text for the heading in the footer - you can use your site name for example - Max length 25 characters"
 Blurb:
-  default: "Ius vitae ornatus at, ei mea sumo quot dicant. Ei tale democritum eos, in mea timeam accumsan forensibus. Ei his aperiam suavitate. Et debitis convenire sea, viris dictas latine."
+  default: "九零（90Sec Team）创建于2011年，专注于信息安全领域的技术研究，是目前为数不多的高水平民间信息安全爱好者技术交流社区。"
   max: 180
   description:
     en: "Enter a short blurb about your community - Max length 180 characters"
